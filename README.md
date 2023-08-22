@@ -1,7 +1,7 @@
 # TurbineEfficiencyCalc
 Turbine Efficiency Calculation
 
-The aim is Developing a Python code for calculating:
+The aim is developing a Python code for calculating:
 
 - Pressure losses and,
 - Parasitic losses,
